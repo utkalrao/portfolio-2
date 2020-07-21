@@ -156,7 +156,7 @@ header {
  .flexbox-container-2{
   display: flex;
   justify-content: center;
-  height: 120vh;
+  height: 100vh;
   flex-wrap: wrap;
   flex-direction: row;
 
